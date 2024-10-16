@@ -1,0 +1,187 @@
+
+
+.registerbox{
+    justify-content:center;
+    position:relative;
+    top:0px;
+    left:500px;
+    width:500px;
+    height:600px;
+opacity:0.5;
+    border:4px solid black;
+
+     background-color:white;
+    border-radius:10px;
+  
+   overflow:hidden;
+    }
+	body{
+		background-image:url('wedz.jfif');
+	}
+
+    .greybox{
+        justify-content:center;
+        position:relative;
+        top:600px;
+        left:600px;
+        width:300px;
+        height:690px;
+       
+       opacity:0.8;
+       opacity:0.6;
+        border-radius:10px;
+      
+       overflow:hidden;
+        }
+.formbox{
+
+    position:absolute;
+    top:100px;
+	left:500px;
+}
+body{
+    background-image:url('kt.jfif');
+	background-size:cover;
+    color:grey;
+    font-family:sans-serif;
+ background-repeat:no-repeat;
+
+}
+input{
+
+    border-radius:50px;
+    border:5px solid black;
+    position:absolute;
+    left:230px;
+    background:linear-gradient(to right,black,grey);
+    color:white;
+}
+label{
+
+    font-size:20px;
+    position:absolute;
+    left:50px;
+    color:black;
+}
+.l{
+position:absolute;
+left:210px;
+
+
+}
+
+.h{
+    position:absolute;
+    left:310px;
+
+
+
+}
+.o{
+    position:absolute;
+left:240px;
+color:black;
+
+
+}
+
+.n{
+
+    position:absolute;
+left:330px;
+color:black;
+}
+.subbutton{
+    position:relative;
+    left:-100px;
+    top:60px;
+    color:white;
+    background-color:black;
+}
+.resetbutton{
+    position:relative;
+    left:100px;
+    top:60px;
+   
+}
+.p{
+    color:white;
+    background-color:black;
+    width:100px;
+    opacity:0.5;
+}
+h2{
+position:absolute;
+left:550px;
+top:100px;
+color:black;
+}
+.googlebutton{
+    position:absolute;
+left:370px;
+top:200px;
+opacity:0.6;
+border:3px solid black;
+
+}
+.google{
+    width:500px;
+    height:60px;
+    border-radius:0;
+    color:white;
+    background-color:black;
+}
+.facebookbutton{
+    position:absolute;
+left:370px;
+top:380px;
+opacity:0.6;
+border:3px solid black;
+
+}
+.facebookbutton:hover{
+    position:absolute;
+left:370px;
+top:380px;
+opacity:0.9;
+outline:5px solid white;
+
+}
+
+.applebutton{
+    position:absolute;
+left:375px;
+top:459px;
+opacity:0.6;
+border:3px solid black;
+
+}
+.applebutton:hover{
+    position:absolute;
+left:375px;
+top:459px;
+opacity:1;
+border:3px solid white;
+background-color:black;
+
+}
+.googlebutton:hover{
+    position:absolute;
+left:370px;
+top:200px;
+opacity:0.9;
+border:3px solid black;
+
+}
+h1{
+    color:black;
+    position:absolute;
+    top:100px;
+	font-size:70px;
+	opacity:0.6;
+}
+.p:hover{
+
+    background-color:black;
+    opacity:0.9;
+}
